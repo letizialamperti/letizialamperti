@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @letizialamperti, I am a mathematical engineer, currently doing a PhD in collaboration between @CEFE, Montpellier and @ETH, Zurich, part of the AI4Sciences Program from PSL.
+- 👋 Hi, I’m @letizialamperti, I am a mathematical engineer, currently doing a PhD in collaboration between @CEFE, Montpellier and @ETH, Zurich, part of the AI4TheSciences Program from PSL.
 - 👀 I’m interested in Machine Learning, Applied Mathematics, Deep Learning and most of all Ocean, Ecology and Climate Change.
 - 🌱 I’m currently learning Genetics, Genomics, Ecology, Biodiversity.
 - 💞️ I’m working on Environmental DNA, how to apply machine learning to biodiversity monitoring in marine environment. 
